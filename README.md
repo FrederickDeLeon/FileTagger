@@ -2,9 +2,9 @@ A C++ based application that allows users to assign multiple tags to their files
 
 Planned Features:
 
-    Assign multiple tags to files and directories
-    Search files by single or multiple tags
-    AND / OR / NOT tag filtering
-    Persistent storage
-    Command-line interface
-    More polished GUI (future)
+* Assign multiple tags to files and directories
+* Search files by single or multiple tags
+* AND / OR / NOT tag filtering
+* Persistent storage
+* Command-line interface
+* More polished GUI (future)
